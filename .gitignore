@@ -138,3 +138,4 @@ dmypy.json
 .pyre/
 random_numbers.ipynb
 WeatherPy OLD.ipynb
+.vscode
