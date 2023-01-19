@@ -132,3 +132,4 @@ random_numbers.ipynb
 .DS_Store
 .vscode
 config.py
+.vscode/settings.json
