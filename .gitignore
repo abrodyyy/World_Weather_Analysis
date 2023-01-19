@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 API Practice.ipynb
 random_numbers.ipynb
+.DS_Store
