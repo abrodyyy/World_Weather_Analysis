@@ -139,3 +139,7 @@ config.py
 __pycache__
 .ipynb_checkpoints
 .DS_Store
+weather_data
+Weather_Database/__pycache__
+Weather_Database/.ipynb_checkpoints
+Weather_Database/config.py
