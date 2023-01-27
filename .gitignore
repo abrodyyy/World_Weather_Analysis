@@ -136,7 +136,6 @@ config.py
 .DS_Store
 .DS_Store
 config.py
-.gitignore
 __pycache__
 .ipynb_checkpoints
 .DS_Store
