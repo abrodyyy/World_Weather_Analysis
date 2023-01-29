@@ -145,3 +145,5 @@ Weather_Database/.ipynb_checkpoints
 Weather_Database/config.py
 Vacation Search/config.py
 Vacation Itinerary/config.py
+Vacation_Search/__pycache__
+.DS_Store
