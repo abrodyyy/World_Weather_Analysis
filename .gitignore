@@ -143,3 +143,5 @@ weather_data
 Weather_Database/__pycache__
 Weather_Database/.ipynb_checkpoints
 Weather_Database/config.py
+Vacation Search/config.py
+Vacation Itinerary/config.py
